@@ -1,6 +1,4 @@
-# titanic_treinamento_supervisionado
-
-Titanic — Projeto de Machine Learning (Classificação)
+# 🚢 Titanic — Projeto de Machine Learning (Classificação)
 
 Autores: 5MLET — Anderson, Beatriz, Marianna, Murilo, Welder
 Data: 2025
