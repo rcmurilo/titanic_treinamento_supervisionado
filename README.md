@@ -35,7 +35,7 @@ artifacts/: armazena o pipeline treinado (.joblib).
 
 tc3_titanic_survival_test_3.py: código principal do projeto.
 
-3. Principais Dependências
+## 3. Principais Dependências
 pip install numpy pandas scikit-learn matplotlib seaborn gradio joblib
 
 Bibliotecas utilizadas:
@@ -50,7 +50,7 @@ joblib: serialização de modelos
 
 gradio: criação de interface web interativa
 
-4. Fluxo do Projeto
+## 4. Fluxo do Projeto
 Etapa 1 — Carregamento dos Dados
 
 Os arquivos train.csv e test.csv devem estar na pasta data/.
@@ -192,7 +192,7 @@ Exemplo:
 
 interface.launch(share=True)
 
-5. Métricas Esperadas (exemplo típico)
+## 5. Métricas Esperadas (exemplo típico)
 Modelo	Accuracy	Precision	Recall	F1
 RandomForest	0.83	0.81	0.80	0.80
 Logistic Regression	0.80	0.78	0.77	0.77
@@ -200,7 +200,7 @@ Decision Tree	0.77	0.75	0.74	0.74
 
 (os valores exatos dependem da semente e do dataset local)
 
-6. Conclusões
+## 6. Conclusões
 
 O Random Forest apresentou o melhor desempenho geral, equilibrando precisão e recall.
 
