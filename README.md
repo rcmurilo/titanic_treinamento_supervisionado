@@ -25,8 +25,7 @@ A base de dados é proveniente do Kaggle Titanic Challenge, amplamente usada em 
 ├── artifacts/
 │   └── titanic_best_<modelo>_<timestamp>.joblib
 ├── tc3_titanic_survival_test_3.py
-└── README.md 
-
+└── README.md
 
 data/: contém os datasets originais do Kaggle.
 
