@@ -5,7 +5,7 @@ Data: 2025
 Linguagem: Python 3.x
 Ambiente: Google Colab / Jupyter Notebook
 
-1. Descrição do Projeto
+## 1. Descrição do Projeto
 
 O objetivo deste projeto é prever a probabilidade de sobrevivência dos passageiros do Titanic com base em características demográficas e de viagem, utilizando técnicas de aprendizado supervisionado.
 
@@ -17,7 +17,9 @@ O problema é tratado como uma classificação binária, onde:
 
 A base de dados é proveniente do Kaggle Titanic Challenge, amplamente usada em estudos introdutórios de Machine Learning.
 
-2. Estrutura do Projeto
+## 2. Estrutura do Projeto
+
+```text
 .
 ├── data/
 │   ├── train.csv
@@ -26,7 +28,7 @@ A base de dados é proveniente do Kaggle Titanic Challenge, amplamente usada em 
 │   └── titanic_best_<modelo>_<timestamp>.joblib
 ├── tc3_titanic_survival_test_3.py
 └── README.md
-
+```
 data/: contém os datasets originais do Kaggle.
 
 artifacts/: armazena o pipeline treinado (.joblib).
