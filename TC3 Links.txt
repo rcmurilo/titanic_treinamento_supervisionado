@@ -1,0 +1,19 @@
+Titanic — Projeto de Machine Learning (Classificação)
+
+Autores: 5MLET - Anderson, Beatriz, Marianna, Murilo, Welder.
+
+O objetivo deste projeto é prever a probabilidade de sobrevivência dos passageiros do Titanic com base em características demográficas e de viagem, utilizando técnicas de aprendizado supervisionado.
+
+O problema é tratado como uma classificação binária, onde:
+
+0 → passageiro não sobreviveu
+
+1 → passageiro sobreviveu
+
+GitHub:
+
+https://github.com/rcmurilo/titanic_treinamento_supervisionado/tree/main
+
+Video de apresentacao TC Fase 3:
+
+https://youtu.be/Lk6BFTvhU00
