@@ -12,7 +12,7 @@ O problema é tratado como uma classificação binária, onde:
 
 GitHub:
 
-https://github.com/rcmurilo/titanic_treinamento_supervisionado/tree/main
+https://github.com/rcmurilo/titanic_treinamento_supervisionado.git
 
 Video de apresentacao TC Fase 3:
 
